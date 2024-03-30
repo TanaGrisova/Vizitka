@@ -17,3 +17,4 @@ Tento domácí úkol je povinný. Tj. musíš ho odevzdat, pokud chceš na konci
 ![Zadání úkolu](zadani.jpg)
 
 Snaž se na věci přijít sama, ale úkol není test, zda už všechno umíš. Je to projekt, na kterém se to máš naučit. Když se na něčem zasekneš, neboj se nás zeptat na Slacku. Na tvoje dotazy ti rádi odpovíme.
+# Vizitka
